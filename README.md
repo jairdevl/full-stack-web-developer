@@ -1,11 +1,18 @@
 # Full stack web developer
 
-Refactorizar
+- Refactorizar
 Cambiar la estructura interna, sin alterar el comportamiento externo.
 
-Variables
+* Variables
 Caja que va contener información, en un pc las
 variables ocupan un espacion de memoria RAM
 
 Undefined
 Variable creada pero no se le asignado un valor
+
+Conveciones de industria
+UpperCamelCase
+camelCase
+snake_case
+
+* Tipos de datos
