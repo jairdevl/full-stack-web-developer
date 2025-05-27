@@ -16,3 +16,17 @@ camelCase
 snake_case
 
 * Tipos de datos
+Primitivos: Dato bloque asignado
+-Number
+-String
+-Boolean
+-Undefined
+-Null
+De referencial: Salta a bloque de memoria
+-Arrays
+-Object
+-Functions
+-Clases
+
+Valores le asignamos a las variables.
+
