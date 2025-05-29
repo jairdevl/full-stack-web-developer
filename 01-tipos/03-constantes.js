@@ -1,4 +1,4 @@
-const nombre = "Hello world";
-nombre = "Name new"
+const name = "Hello world";
+name = "Name new"
 
-console.log(nombre)
+console.log(name)

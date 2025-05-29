@@ -30,3 +30,8 @@ De referencial: Salta a bloque de memoria
 
 Valores le asignamos a las variables.
 
+* Objectos
+Agrupación de datos
+LLave valor...
+Tipados de referencia 
+
