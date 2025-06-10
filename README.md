@@ -1,4 +1,4 @@
-# 🚀 Ruta de Aprendizaje: Full Stack Web Developer
+# 🚀 Full Stack Web Developer: Ruta de Aprendizaje
 
 <div align="center">
   <img src="https://img.shields.io/badge/status-en%20progreso-brightgreen" alt="Estado: En Progreso">
@@ -7,24 +7,28 @@
 </div>
 
 <p align="center">
-  <em>Repositorio de aprendizaje con conceptos, recursos y proyectos para convertirse en desarrollador web full stack.</em>
+  <em>Bienvenido/a a mi repositorio de aprendizaje para convertirme en desarrollador web full stack. Aquí encontrarás conceptos clave, recursos útiles, ejemplos de código y proyectos prácticos, todo organizado para facilitar el aprendizaje continuo y la consulta rápida.</em>
 </p>
+
+---
 
 ## 📋 Tabla de Contenidos
 
 - [Introducción](#-introducción)
+- [Características](#-características)
+- [Instalación y Uso](#-instalación-y-uso)
 - [Conceptos Básicos](#-conceptos-básicos)
-  - [Fundamentos de Programación](#fundamentos-de-programación)
-  - [Conceptos Frontend](#conceptos-frontend)
-  - [Conceptos Backend](#conceptos-backend)
 - [Tecnologías](#-tecnologías)
 - [Proyectos](#-proyectos)
 - [Recursos de Aprendizaje](#-recursos-de-aprendizaje)
 - [Roadmap](#-roadmap)
+- [Cómo Contribuir](#-cómo-contribuir)
+- [Contacto](#-contacto)
+---
 
 ## 🌟 Introducción
 
-Este repositorio documenta mi viaje de aprendizaje como desarrollador web full stack. Sirve como una colección organizada de conocimientos, conceptos clave, ejemplos de código y proyectos prácticos. A medida que avanzo en mi aprendizaje, este documento se irá actualizando y expandiendo.
+Este repositorio documenta mi viaje de aprendizaje como desarrollador web full stack. Incluye una colección organizada de conocimientos, conceptos clave, ejemplos de código y proyectos prácticos. El objetivo es facilitar el aprendizaje y servir como referencia para otros desarrolladores que sigan un camino similar.
 
 ## 📚 Conceptos Básicos
 
@@ -77,12 +81,13 @@ Este repositorio documenta mi viaje de aprendizaje como desarrollador web full s
 
 ## 💻 Tecnologías
 
-*(Añade aquí las tecnologías que vas aprendiendo)*
+A medida que avanzo, iré sumando tecnologías a esta sección:
 
 <div align="center">
-  <!-- Logos de tecnologías irán aquí -->
-  <!-- Ejemplo: -->
-  <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <!-- Agrega más logos según avances -->
 </div>
 
 ## 🏗️ Proyectos
@@ -111,6 +116,15 @@ Este repositorio documenta mi viaje de aprendizaje como desarrollador web full s
 - [ ] Crear proyectos full stack
 
 ---
+
+## 🛠️ Cómo Contribuir
+
+¡Las contribuciones son bienvenidas! Si tienes sugerencias, correcciones o quieres agregar recursos/proyectos, abre un issue o haz un pull request. Toda ayuda para mejorar este repositorio es apreciada.
+
+## 📫 Contacto
+
+¿Tienes preguntas o sugerencias? Puedes contactarme a través de:
+- GitHub: [@jairdevl](https://github.com/jairdevl)
 
 <div align="center">
   <p>
